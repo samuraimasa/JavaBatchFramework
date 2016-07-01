@@ -1,0 +1,18 @@
+# 開発環境用
+app_name=
+
+# debugにするとログ出力
+log_level=debug
+
+db_server=localhost
+db_schema=
+db_user=root
+db_password=
+
+mail_smtp_host=
+mail_smtp_port=
+mail_smtp_user=
+mail_smtp_pass=
+mail_from=
+mail_to=
+mail_send=true
